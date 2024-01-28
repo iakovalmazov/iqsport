@@ -1,0 +1,26 @@
+.vh-85 {
+  height: 85vh;
+}
+
+.nav-link.active {
+  color: #ffffff !important;
+  background-color: #198754 !important;
+}
+
+.nav-link {
+  color: #212529 !important;
+  background-color: #ffffff !important;
+}
+
+.btn-lg {
+  font-size: 2.5rem;
+}
+
+.accordion {
+  --bs-accordion-border-color: #212529;
+  --bs-accordion-active-bg: #212529;
+  --bs-accordion-btn-focus-box-shadow: none;
+  --bs-accordion-active-color: white;
+}
+
+
